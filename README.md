@@ -35,28 +35,27 @@ Firebase is used for uploading and retrieving images.
 
 ### Images:
 > Welcome Page
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/WelcomePage.png" />
+<img width="1920" height="1483" alt="WelcomePage" src="https://github.com/user-attachments/assets/db209edf-2726-481f-b1a6-791f30b6e891" />
 
 > Welcome Page - Deutsch
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/WelcomePageDeutsch.png" />
+<img width="1920" height="1398" alt="WelcomePageDeutsch" src="https://github.com/user-attachments/assets/c11fc1d6-a78b-4cd1-8262-2be4bc991dc1" />
 
 > Login
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/Login.png" />
+<img width="1920" height="858" alt="Login" src="https://github.com/user-attachments/assets/27e48dd6-6ea2-4d95-8f8a-55b18e7c112e" />
 
 > Sign Up
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/SignUp.png" />
+<img width="1920" height="858" alt="SignUp" src="https://github.com/user-attachments/assets/76e452c6-03d4-422b-a027-d1ff9ece40a8" />
 
 > Home
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/Home.png" />
+<img width="1920" height="4443" alt="Home" src="https://github.com/user-attachments/assets/457192af-82e3-4159-b016-5409cb0cfbd8" />
 
 > Add Menu Form
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/AddMenu.png" />
+<img width="1920" height="1664" alt="AddMenu" src="https://github.com/user-attachments/assets/da03a643-e4c8-4e2c-b9d7-d8c0927fc21c" />
 
 > Edit Menu Form
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/EditMenu.png" />
+<img width="1920" height="2811" alt="EditMenu" src="https://github.com/user-attachments/assets/9e1ebcb6-c806-40c1-a676-b4b93420ba49" />
 
 > Page not found
-<img src="https://github.com/hetsuthar028/restaurant-app-wt/blob/master/screenshots/PageNotFound.png" />
+<img width="1920" height="854" alt="PageNotFound" src="https://github.com/user-attachments/assets/d5667263-1826-4a93-897a-867c9d907730" />
 
-**Look forward to your reviews/suggestions.** 😀😇
 **Fore more suggestions for improvement write to me at kunalyadav9165060445@gmail.com**
